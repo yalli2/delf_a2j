@@ -1,0 +1,5 @@
+window.BOOK={key:'a2j',hero:'linear-gradient(135deg,#0b5d55,#0f9b8e 55%,#4fd1c5)',short:'DELF A2 junior',level:'A2',v:1,
+title:'DELF A2 scolaire et junior — Préparation interactive',
+desc:{ko:'「Le DELF A2 100% Réussite」(scolaire et junior) 교재 구성을 따라 듣기·읽기·쓰기·말하기와 모의고사를 사이트에서 바로 풀고 점수를 확인하는 수업용 학습 사이트입니다.',en:'Interactive class site following “Le DELF A2 100% Réussite” (school & junior): four skills and a mock exam with instant scores.',fr:'Site interactif suivant la progression du manuel « Le DELF A2 100 % réussite » : 4 compétences et une épreuve blanche.'},
+footer:'Basé sur la progression de « Le DELF A2 100% Réussite » scolaire et junior (Didier) — contenus adaptés.',
+exam:[{p:'co',d:{ko:'약 25분 · 25점 · 짧은 녹음 3–4개 (2회 듣기)',en:'≈25 min · 25 pts',fr:'≈ 25 min · 25 pts'}},{p:'ce',d:{ko:'30분 · 25점 · 일상 문서 3–4개',en:'30 min · 25 pts',fr:'30 min · 25 pts'}},{p:'pe',d:{ko:'45분 · 25점 · 짧은 글 2개 (60단어 이상)',en:'45 min · 25 pts · 2 texts',fr:'45 min · 25 pts · 2 textes'}},{p:'po',d:{ko:'준비 10분 · 6–8분 · 25점 · 3부분',en:'prep 10 min · 6–8 min · 25 pts',fr:'prép. 10 min · 6–8 min · 25 pts'}}]};
